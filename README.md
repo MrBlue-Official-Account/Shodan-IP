@@ -4,7 +4,8 @@ A diferencia de otras de herraminetas **SHODAN IP** no usa una **API**, permite 
 
 ![sshodan_ip](https://github.com/user-attachments/assets/360f38e6-dd83-455c-87c8-e5677c11b1b0)
 
-> ❗Nota: regule la cantidad de puertos a filtrar ya que dependerá el tiempo de espera para las IP.  Por defecto son 60 segundos, puede cambiarlo en `timeout=<Time>`
+> [!NOTE]❗Nota:
+> regule la cantidad de puertos a filtrar ya que dependerá el tiempo de espera para las IP.  Por defecto son 60 segundos, puede cambiarlo en `timeout=<Time>`
 
 ## Características
 

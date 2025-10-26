@@ -1,7 +1,7 @@
 """
     #-------- Extract IP address from shodan By ports
 """
-# pylint: disable=C0103,C0301,C0410
+# pylint: disable=C0301,C0410
 import json
 import re
 import sys, os
